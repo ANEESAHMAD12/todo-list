@@ -1,0 +1,17 @@
+
+body{
+    background: linear-gradient(to right, #ffff,#bbbb, #0000,#e85050aa);
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin: 0;
+padding: 0;
+justify-content: center;
+align-items: center;
+display: flex;
+height: 100vh;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+    color: black;
+}
